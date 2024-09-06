@@ -1,0 +1,12 @@
+fastapi
+uvicorn 
+python-dotenv
+# azure-identity==1.15.0
+openai==1.2.4
+azure-core==1.26.4
+azure-search-documents==11.4.0b11
+azure-storage-blob
+# azure-cosmos==4.7.0
+PyPDF2
+langchain==0.0.248
+langsmith==0.0.15
